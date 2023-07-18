@@ -35,4 +35,4 @@ use Rajwebsoft\Xlsreader\Xlsreader;
     "phone"=>"8787878788",
   }]
 ```
-  Now you can enjoin the package
+  Now you can enjoy the package and your suggetion is welcome for any issue
