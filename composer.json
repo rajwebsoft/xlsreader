@@ -1,0 +1,23 @@
+{
+    "name": "rajwebsoft/xlsreader",
+    "description": "Read the content from the xls file in object and array",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Rajwebsoft\\Xlsreader\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Raj Kumar",
+            "email": "rajwebsoft@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Rajwebsoft\\Xlsreader\\XlsreaderServiceProvider"
+            ]
+        }
+    }
+}
