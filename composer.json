@@ -1,6 +1,7 @@
 {
     "name": "rajwebsoft/xlsreader",
     "description": "Read the content from the xls file in object and array",
+    "license": "MIT",
     "type": "library",
     "autoload": {
         "psr-4": {
