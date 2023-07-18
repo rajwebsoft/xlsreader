@@ -31,7 +31,7 @@ use Rajwebsoft\Xlsreader\Xlsreader;
     "phone"=>"9090909090",
   },
   {
-    "name"=>"rahll Kumar",
+    "name"=>"rahul Kumar",
     "phone"=>"8787878788",
   }]
 ```
